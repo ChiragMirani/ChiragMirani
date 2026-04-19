@@ -9,7 +9,8 @@ Independent data scientist and quantitative researcher in Suwanee, GA. 10+ years
 
 ## Published research
 
-- **A Predictive Model for 10-Year Treasury Futures** ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6292699) &middot; [PDF mirror](https://chiragmirani.github.io/macro-dashboard/treasury-futures-model.pdf))
+- **Exposure-Time Normalized Performance — Strategy Evaluation Under Binding Exposure Constraints** (Feb 2026) — formalizes exposure-time as a measurable input in strategy evaluation, defines exposure-normalized Sharpe (S\*) and MAR\*, and shows in Monte Carlo that exposure-normalized rankings reverse vs raw Sharpe in 69.5% of simulations. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6292699)
+- **A Predictive Model for 10-Year Treasury Futures** (independent research, 2025). [PDF](https://chiragmirani.github.io/macro-dashboard/treasury-futures-model.pdf)
 
 ## What I'm into
 
