@@ -6,7 +6,7 @@ Independent data scientist and quantitative researcher in Suwanee, GA. I've spen
 
 [MacroForecastbyCM](https://chiragmirani.github.io/macro-dashboard/) is a live, daily-updated dashboard with house forecasts and Kalshi market consensus for every major US macro release: Core CPI, Core PCE, NFP, ADP, Unemployment Rate, and Weekly Jobless Claims. It also keeps an honest [track record](https://chiragmirani.github.io/macro-dashboard/track-record.html) of how my forecasts have done against Kalshi and the actual prints. Source at [github.com/ChiragMirani/macro-dashboard](https://github.com/ChiragMirani/macro-dashboard).
 
-[Bhagavad Gita Quotes](https://chiragmirani.github.io/gita-quotes/) is a small web app for reading and sharing all 700 verses of the Bhagavad Gita in English. Free to quote, public-domain translation, installable on iOS and Android home screens. Source at [github.com/ChiragMirani/gita-quotes](https://github.com/ChiragMirani/gita-quotes).
+[Gita](https://chiragmirani.github.io/gita-quotes/) is a small web app for reading the complete Bhagavad Gita verse by verse in English. All 700 verses, public-domain translation, free to read and share, installable on iOS and Android home screens. Source at [github.com/ChiragMirani/gita-quotes](https://github.com/ChiragMirani/gita-quotes).
 
 On [Kaggle as cmirani](https://www.kaggle.com/cmirani) for 9 years. Silver-medal notebook on a leakage-free time-series training and test pipeline (77 upvotes). Recently finished top 22% (379 of 1711 teams) in the MITSUI Commodity Prediction Challenge. Currently competing in ARC Prize 2026 (ARC-AGI-2) and the NVIDIA Nemotron Model Reasoning Challenge.
 
