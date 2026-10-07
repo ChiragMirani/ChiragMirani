@@ -8,6 +8,8 @@ Independent data scientist and quantitative researcher in Suwanee, GA. I've spen
 
 [Gita](https://chiragmirani.github.io/gita-quotes/) is a small web app for reading the complete Bhagavad Gita verse by verse in English. All 700 verses, public-domain translation, free to read and share, installable on iOS and Android home screens. Source at [github.com/ChiragMirani/gita-quotes](https://github.com/ChiragMirani/gita-quotes).
 
+[Shree Hanuman Chalisa (English)](https://apps.apple.com/app/id6819752072) is a free iPhone and iPad app for reading the Hanuman Chalisa verse by verse in plain English, with the Hindi and the Hindi in English letters one switch away. No ads, no account, nothing collected, and it works offline. The same text is also on the web at [chiragmirani.github.io/hanuman-chalisa](https://chiragmirani.github.io/hanuman-chalisa/).
+
 On [Kaggle as cmirani](https://www.kaggle.com/cmirani) for 9 years. Silver-medal notebook on a leakage-free time-series training and test pipeline (77 upvotes). Recently finished top 22% (379 of 1711 teams) in the MITSUI Commodity Prediction Challenge. Currently competing in ARC Prize 2026 (ARC-AGI-2) and the NVIDIA Nemotron Model Reasoning Challenge.
 
 ## Selected research portfolio (private)
