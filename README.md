@@ -1,6 +1,8 @@
 # Hi, I'm Chirag
 
-Independent data scientist and quantitative researcher in Suwanee, GA. I've spent 10+ years building predictive models and forecasting systems across macro, options, time series, and prediction markets. Active research right now is in reinforcement learning and frontier reasoning benchmarks like ARC-AGI.
+Data scientist and quantitative researcher in Suwanee, Georgia (Master of Science in Computational Finance, Carnegie Mellon University). I've spent about 20 years in quantitative finance building predictive models and forecasting systems across macro, options, time series, and prediction markets. Active research right now is in reinforcement learning and frontier reasoning benchmarks like ARC-AGI.
+
+**Open to data science and quantitative research roles.** Skills: Python, time series forecasting, machine learning, reinforcement learning, options and volatility modeling, backtesting.
 
 ## What I'm working on right now
 
@@ -34,4 +36,4 @@ A Predictive Model for 10-Year Treasury Futures (independent research, 2025). [P
 
 ## Reach out
 
-Open to consultation, collaboration, or trading-research conversations. Find me on [LinkedIn](https://www.linkedin.com/in/chiragmirani/), [X](https://x.com/chirag_mirani1), or [Kaggle](https://www.kaggle.com/cmirani).
+Open to full-time roles, consultation, collaboration, or trading-research conversations. Find me on [LinkedIn](https://www.linkedin.com/in/chiragmirani/), [X](https://x.com/chirag_mirani1), or [Kaggle](https://www.kaggle.com/cmirani).
