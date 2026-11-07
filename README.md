@@ -61,5 +61,5 @@ A Predictive Model for 10-Year Treasury Futures (independent research, 2025). [P
 
 ## Reach out
 
-Open to full-time roles, consultation, collaboration, or trading-research conversations. Find me on [LinkedIn](https://www.linkedin.com/in/chiragmirani/), [X](https://x.com/chirag_mirani1), or [Kaggle](https://www.kaggle.com/cmirani).
+Open to full-time roles, consultation, collaboration, or trading-research conversations. Find me on [LinkedIn](https://www.linkedin.com/in/chiragmirani/) or [Kaggle](https://www.kaggle.com/cmirani).
 
