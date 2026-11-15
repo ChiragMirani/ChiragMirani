@@ -4,6 +4,12 @@ Investment manager and quantitative researcher in Suwanee, Georgia, with about 2
 
 [Research and portfolio](https://chiragmirani.github.io/) · [LinkedIn](https://www.linkedin.com/in/chiragmirani/) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6292699) · [Kaggle](https://www.kaggle.com/cmirani)
 
+## Apps
+
+**Coming soon: Off Grid Intelligence (OGI).** I'm building offline technology to help save lives, with enormous potential for defense and emergency response.
+
+I also build iPhone and iPad apps and scripture readers. [See my apps](https://chiragmirani.github.io/apps/).
+
 ## Selected research portfolio (private)
 
 A focused subset of in-production research. Code, methodology, and live PnL stay private. Happy to discuss under NDA.
@@ -33,5 +39,3 @@ On [Kaggle as cmirani](https://www.kaggle.com/cmirani) for 9 years. Silver-medal
 ## Reach out
 
 Open to investment, consultation, collaboration or trading-research conversations. Find me on [LinkedIn](https://www.linkedin.com/in/chiragmirani/).
-
-<sub>Side projects: I also build a few iPhone and iPad apps and scripture readers in my spare time — [see them here](https://chiragmirani.github.io/apps/).</sub>
