@@ -30,7 +30,7 @@ A focused subset of in-production research. Code, methodology, and live PnL stay
 
 Exposure-Time Normalized Performance: Strategy Evaluation Under Binding Exposure Constraints (Feb 2026). Formalizes exposure-time as a measurable input in strategy evaluation, defines exposure-normalized Sharpe and MAR ratios, and shows in Monte Carlo that exposure-normalized rankings reverse versus raw Sharpe in 69.5% of simulations. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6292699).
 
-A Predictive Model for 10-Year Treasury Futures (independent research, 2025). [PDF](https://chiragmirani.github.io/macro-dashboard/treasury-futures-model.pdf).
+A Predictive Model for 10-Year Treasury Futures (independent research, 2025). The previously linked public PDF is currently unavailable.
 
 ## Public work
 
