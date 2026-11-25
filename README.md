@@ -26,6 +26,8 @@ A focused subset of in-production research. Code, methodology, and live PnL stay
 
 ## Published research
 
+[A Simple Weekly Signal for the U.S. 10-Year Treasury Yield](https://chiragmirani.github.io/treasury-signal/paper/) (November 2026). A weekly Treasury yield forecasting and duration-timing checklist, with the full working paper, historical results, PDF and reproducible code. [Weekly signal tool and outcomes](https://chiragmirani.github.io/treasury-signal/). Historical yield-direction scores are not portfolio returns.
+
 Exposure-Time Normalized Performance: Strategy Evaluation Under Binding Exposure Constraints (Feb 2026). Formalizes exposure-time as a measurable input in strategy evaluation, defines exposure-normalized Sharpe and MAR ratios, and shows in Monte Carlo that exposure-normalized rankings reverse versus raw Sharpe in 69.5% of simulations. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6292699).
 
 A Predictive Model for 10-Year Treasury Futures (independent research, 2025). [PDF](https://chiragmirani.github.io/macro-dashboard/treasury-futures-model.pdf).
