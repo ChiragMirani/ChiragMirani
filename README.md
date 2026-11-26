@@ -6,7 +6,9 @@ Investment manager and quantitative researcher in Suwanee, Georgia, with about 2
 
 ## Apps
 
-**Coming soon: Off Grid Intelligence (OGI).** I'm building offline technology to help save lives, with enormous potential for defense and emergency response.
+I built Off Grid Intelligence (OGI), an offline survival AI for iPhone. It can use 470+ sourced guides, 30+ tools, and saved maps in one request.
+
+[Download Off Grid Intelligence (OGI) on the App Store](https://apps.apple.com/us/app/off-grid-intelligence-ogi/id6835120022?utm_source=chatgpt.com)
 
 I also build iPhone and iPad apps and scripture readers. [See my apps](https://chiragmirani.github.io/apps/).
 
